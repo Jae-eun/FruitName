@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  FindNameViewController.swift
 //  FruitName
 //
 //  Created by 이재은 on 19/12/2018.
@@ -8,13 +8,12 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class FindNameViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+
+        // Do any additional setup after loading the view.
     }
 
-
 }
-
